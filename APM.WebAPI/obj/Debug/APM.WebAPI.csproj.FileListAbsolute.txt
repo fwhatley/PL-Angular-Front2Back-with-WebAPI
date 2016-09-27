@@ -1,0 +1,206 @@
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\APM.WebAPI.dll.config
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\APM.WebAPI.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\APM.WebAPI.pdb
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\EntityFramework.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.OData.Core.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.OData.Edm.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Owin.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Spatial.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Owin.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.Cors.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.Http.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.Http.Owin.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.OData.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.Razor.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\WebGrease.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.OData.Core.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.OData.Edm.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Spatial.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.Http.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.OData.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.Razor.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\EntityFramework.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Owin.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\System.Web.Http.Owin.xml
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\de\Microsoft.OData.Core.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\es\Microsoft.OData.Core.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\fr\Microsoft.OData.Core.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\it\Microsoft.OData.Core.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\ja\Microsoft.OData.Core.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\ko\Microsoft.OData.Core.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\ru\Microsoft.OData.Core.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\de\Microsoft.OData.Edm.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\es\Microsoft.OData.Edm.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\fr\Microsoft.OData.Edm.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\it\Microsoft.OData.Edm.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\ja\Microsoft.OData.Edm.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\ko\Microsoft.OData.Edm.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\ru\Microsoft.OData.Edm.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\de\Microsoft.Spatial.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\es\Microsoft.Spatial.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\fr\Microsoft.Spatial.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\it\Microsoft.Spatial.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\ja\Microsoft.Spatial.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\ko\Microsoft.Spatial.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\ru\Microsoft.Spatial.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\obj\Debug\APM.WebAPI.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\obj\Debug\APM.WebAPI.pdb
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\obj\Debug\APM.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\Swashbuckle.Core.dll
+C:\Users\fwhatley.CORP\Desktop\APM\APM.WebAPI\bin\WebActivatorEx.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\APM.WebAPI.dll.config
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\APM.WebAPI.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\APM.WebAPI.pdb
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\EntityFramework.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.OData.Core.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.OData.Edm.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Owin.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Spatial.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Owin.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Swashbuckle.Core.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.Cors.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.Http.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.Http.Owin.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.OData.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.Razor.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\WebActivatorEx.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\WebGrease.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.OData.Core.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.OData.Edm.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Spatial.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.Http.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.OData.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.Razor.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\EntityFramework.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Owin.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\System.Web.Http.Owin.xml
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\de\Microsoft.OData.Core.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\es\Microsoft.OData.Core.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\fr\Microsoft.OData.Core.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\it\Microsoft.OData.Core.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\ja\Microsoft.OData.Core.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\ko\Microsoft.OData.Core.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\ru\Microsoft.OData.Core.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\de\Microsoft.OData.Edm.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\es\Microsoft.OData.Edm.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\fr\Microsoft.OData.Edm.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\it\Microsoft.OData.Edm.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\ja\Microsoft.OData.Edm.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\ko\Microsoft.OData.Edm.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\ru\Microsoft.OData.Edm.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\de\Microsoft.Spatial.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\es\Microsoft.Spatial.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\fr\Microsoft.Spatial.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\it\Microsoft.Spatial.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\ja\Microsoft.Spatial.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\ko\Microsoft.Spatial.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\ru\Microsoft.Spatial.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\bin\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\obj\Debug\APM.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\obj\Debug\APM.WebAPI.dll
+C:\Users\Raul\Google Drive\Frontline Work\lib\APM\APM.WebAPI\obj\Debug\APM.WebAPI.pdb
